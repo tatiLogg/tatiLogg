@@ -1,10 +1,9 @@
-# 👋🏽 Hey there, I’m Selina Loggins!
+👋🏽 Hey there, I’m Selina Loggins!
 
-I'm a future-ready Cloud Engineer passionate about DevOps, Infrastructure-as-Code, and building secure, scalable systems. After an accomplished career in IT project management and compliance, I’ve pivoted into the world of cloud and cybersecurity — and I’m loving every minute of it.
+I'm a future-ready Cloud Engineer passionate about DevOps, Infrastructure-as-Code,Kubernetes and building secure, scalable systems. After an accomplished career in IT project management and compliance, I’ve pivoted into the world of cloud and cybersecurity — and I’m loving every minute of it.
 
----
 
-## 💻 Latest Project: MediaCatalog on AWS
+💻 Latest Project: MediaCatalog on AWS
 
 🔗 [media-catalog-dynamodb](https://github.com/tatiLogg/media-catalog-dynamodb)  
 A secure, read-only DynamoDB infrastructure deployed with CloudFormation.
@@ -20,9 +19,9 @@ I designed the architecture using **AWS best practices**, focusing on:
 
 It’s fully tested and ready to demo in interviews. 🙌
 
----
 
-## 🧠 Skills Gained
+
+🧠 Skills Gained
 
 - AWS CLI + EC2 provisioning  
 - Infrastructure as Code (IaC) using CloudFormation  
@@ -31,18 +30,18 @@ It’s fully tested and ready to demo in interviews. 🙌
 - Real-world troubleshooting (SSH, VPC config, IAM auth)  
 - Git & GitHub version control  
 
----
 
-## 🌱 Currently Learning
+
+🌱 Currently Learning
 
 - Terraform  
 - Docker & Containers  
 - Python scripting  
 - AWS Developer Associate (cert-in-progress!)  
 
----
 
-## ☁️ My Motto
+
+☁️ My Motto
 
 > “Don’t just deploy — deploy with clarity, confidence, and control.”
 
