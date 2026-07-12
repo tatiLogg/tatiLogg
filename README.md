@@ -35,4 +35,4 @@ Skills Gained:
 - AWS Certified Machine Learning Engineer – Associate (cert-in-progress!)
 
 ## ☁️ My Motto
-"Don't just deploy — deploy with clarity, confidence, and control."
+"Don't just deploy, deploy with clarity, confidence, and control."
